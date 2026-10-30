@@ -3,7 +3,7 @@ service firebase.storage {
   match /b/{bucket}/o {
     function isAdmin() {
       return request.auth != null
-        && request.auth.uid in ["PASTE_ADMIN_USER_UID_HERE"];
+        && request.auth.uid in ["Nwml4LiQZqeuDlfHBFyzkPIURvy2"];
     }
     match /gallery/{allPaths=**} {
       allow read: if true;
