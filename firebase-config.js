@@ -1,10 +1,8 @@
-// Firebase Web App configuration for GPC Vidya Mandir.
-// This config was reused from the school's previously shared Firebase project.
 export const firebaseConfig = {
-  apiKey: "AIzaSyBiwyfaVfDniKm0u1gQo2qYlITph9fVgkc",
-  authDomain: "gpc-vidhya-mandir.firebaseapp.com",
-  projectId: "gpc-vidhya-mandir",
-  storageBucket: "gpc-vidhya-mandir.firebasestorage.app",
-  messagingSenderId: "579121016267",
-  appId: "1:579121016267:web:a4f3175546694c9a615a4e"
+  apiKey: "AIzaSyB8GD89MlARU2Tu2SgOJSvRv53x_TjTmVE",
+  authDomain: "gpc-vidhya-mandir-4e7d8.firebaseapp.com",
+  projectId: "gpc-vidhya-mandir-4e7d8",
+  storageBucket: "gpc-vidhya-mandir-4e7d8.firebasestorage.app",
+  messagingSenderId: "512052429638",
+  appId: "1:512052429638:web:b19a545c67246fd36a5b47"
 };
